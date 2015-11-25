@@ -1,0 +1,2 @@
+# excelInsetToMysql
+使用python将excel中的数据按excel中的配置导入mysql数据库中。
